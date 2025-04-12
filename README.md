@@ -81,6 +81,20 @@ Application_RO.exe
 - Implémentation pratique d'algorithmes avancés de recherche opérationnelle.
 - Optimisation des graphes et gestion des flux avec NetworkX et Matplotlib.
 - Création d'interfaces graphiques intuitives avec Tkinter.
+  ## Interface Utilisateur
+
+Voici quelques captures d'écran de l'interface de l'application :
+
+![image](https://github.com/user-attachments/assets/8faf0325-3079-43ba-80c1-79175e984e87)
+![image](https://github.com/user-attachments/assets/12f307c7-1ec0-47fa-b864-62a79413a909)
+![image](https://github.com/user-attachments/assets/2651f13e-9373-42e6-ac85-e3d8a34b09f0)
+![image](https://github.com/user-attachments/assets/0c21c0f2-5106-4ed9-9076-71485152defd)
+![image](https://github.com/user-attachments/assets/115757c5-b463-4b4f-bfad-9496d130bb73)
+
+
+
+
+
   
 ## Auteurs
 
