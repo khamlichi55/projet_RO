@@ -84,7 +84,7 @@ Application_RO.exe
   
 ## Auteurs
 
-- **Idrissi Khamlichi Abdelhadi** - Ingenieur Informatique et reseaux
-  [Mon CvWeb](https://ik-abdou.vercel.app/)
+- **Idrissi Khamlichi Abdelhadi** - Ingenieur Informatique et Reseaux
+-   [Mon CvWeb](https://ik-abdou.vercel.app/)
 
 
