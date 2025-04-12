@@ -84,11 +84,15 @@ Application_RO.exe
   ## Interface Utilisateur
 
 Voici quelques captures d'écran de l'interface de l'application :
-
+### Page d'accueil :
 ![image](https://github.com/user-attachments/assets/8faf0325-3079-43ba-80c1-79175e984e87)
+### les algorithmes :
 ![image](https://github.com/user-attachments/assets/12f307c7-1ec0-47fa-b864-62a79413a909)
+### Kruskal :
 ![image](https://github.com/user-attachments/assets/2651f13e-9373-42e6-ac85-e3d8a34b09f0)
+### Welsh Powel
 ![image](https://github.com/user-attachments/assets/0c21c0f2-5106-4ed9-9076-71485152defd)
+### Bellman Ford
 ![image](https://github.com/user-attachments/assets/115757c5-b463-4b4f-bfad-9496d130bb73)
 
 
